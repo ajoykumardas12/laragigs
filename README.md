@@ -2,6 +2,3 @@
 
 
 
-## Bugs
-
-1. Problem with edit and delete listing.
